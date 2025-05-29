@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/rahuljaiswarofficial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p style="font-size:1.3em;font-weight:bold;">🛠️ Technical Skills</p>
+**🛠️ Technical Skills**
 
 <p align="left">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
 </p>
 
-<p style="font-size:1.3em;font-weight:bold;">💡 More About Me</p>
+**💡 More About Me**
 
 - 🌟 Always learning new technologies and frameworks.
 - 🧩 Love solving complex problems and building creative solutions.
@@ -59,7 +59,7 @@
 - 🎵 Music lover and occasional guitarist.
 - 🌏 Believe in lifelong learning and sharing knowledge.
 
-<p style="font-size:1.3em;font-weight:bold;">📊 GitHub Analytics</p>
+**📊 GitHub Analytics**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-jaiswar-git&theme=dark&hide_border=true&include_all_commits=true" height="150"/>
@@ -67,7 +67,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-jaiswar-git&theme=dark&hide_border=true" height="150"/>
 </p>
 
-<p style="font-size:1.3em;font-weight:bold;">🏆 GitHub Profile Trophy</p>
+**🏆 GitHub Profile Trophy**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahul-jaiswar-git&theme=gruvbox&no-frame=true&no-bg=true&column=8" width="100%"/>
