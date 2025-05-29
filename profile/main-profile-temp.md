@@ -1,20 +1,18 @@
-<table>
-  <tr>
-    <td valign="middle" width="60%">
-      <h1>Rahul Jaiswar</h1>
-      <b>Full Stack Developer | Tech Enthusiast | Problem Solver</b><br>
-      <p>Hi! I'm Rahul, passionate about building scalable web apps and creative solutions. Always learning, always coding.</p>
-      <b>Connect with me here:</b><br>
-      <a href="https://wa.me/918605671941"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
-      <a href="mailto:rahuljaiswarofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-      <a href="https://instagram.com/rahuljaiswarofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-      <a href="https://linkedin.com/in/rahuljaiswarofficial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-    </td>
-    <td valign="middle" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="260"/>
-    </td>
-  </tr>
-</table>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="260" align="right">
+
+<p align="left">
+  <h1>Rahul Jaiswar</h1>
+  <b>Full Stack Developer | Tech Enthusiast | Problem Solver</b><br>
+  Hi! I'm Rahul, passionate about building scalable web apps and creative solutions. Always learning, always coding.
+</p>
+
+<p align="left">
+  <b>Connect with me here:</b><br>
+  <a href="https://wa.me/918605671941"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:rahuljaiswarofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/rahuljaiswarofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rahuljaiswarofficial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ## 🛠️ Technical Skills
 
