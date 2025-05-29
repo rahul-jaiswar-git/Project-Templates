@@ -1,20 +1,18 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
+# Rahul Jaiswar
 
-<p align="left">
-  <h1>Rahul Jaiswar</h1>
-  <b>Full Stack Developer | Tech Enthusiast | Problem Solver</b><br>
-  Hi! I'm Rahul, passionate about building scalable web apps and creative solutions. Always learning, always coding.
-</p>
+**Full Stack Developer | Tech Enthusiast | Problem Solver**
 
-<p align="left">
-  <b>Connect with me here:</b><br>
-  <a href="https://wa.me/918605671941"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
-  <a href="mailto:rahuljaiswarofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/rahuljaiswarofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/rahuljaiswarofficial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
+Hi! I'm Rahul, passionate about building scalable web apps and creative solutions. Always learning, always coding. I enjoy collaborating with others and am always open to new opportunities and challenges. 
 
-![Technical Skills](https://img.shields.io/badge/-🛠️_Technical_Skills-181717?style=for-the-badge)
+Connect with me here:
+<a href="https://wa.me/918605671941"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:rahuljaiswarofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/rahuljaiswarofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rahuljaiswarofficial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="center">
+
+## 🛠️ Technical Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
@@ -49,7 +47,7 @@
   <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
 </p>
 
-![More About Me](https://img.shields.io/badge/-💡_More_About_Me-181717?style=for-the-badge)
+## 💡 More About Me
 
 - 🌟 Always learning new technologies and frameworks.
 - 🧩 Love solving complex problems and building creative solutions.
@@ -59,7 +57,7 @@
 - 🎵 Music lover and occasional guitarist.
 - 🌏 Believe in lifelong learning and sharing knowledge.
 
-![GitHub Analytics](https://img.shields.io/badge/-📊_GitHub_Analytics-181717?style=for-the-badge)
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-jaiswar-git&theme=dark&hide_border=true&include_all_commits=true" height="150"/>
@@ -67,7 +65,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-jaiswar-git&theme=dark&hide_border=true" height="150"/>
 </p>
 
-![GitHub Profile Trophy](https://img.shields.io/badge/-🏆_GitHub_Profile_Trophy-181717?style=for-the-badge)
+## 🏆 GitHub Profile Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahul-jaiswar-git&theme=gruvbox&no-frame=true&no-bg=true&column=8" width="100%"/>
