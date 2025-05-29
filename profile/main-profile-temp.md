@@ -1,20 +1,15 @@
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h1>Rahul Jaiswar</h1>
-      <b>Full Stack Developer | Tech Enthusiast | Problem Solver</b><br>
-      Hi! I'm Rahul, passionate about building scalable web apps and creative solutions. Always learning, always coding. I enjoy collaborating with others and am always open to new opportunities and challenges. I love working on innovative projects and sharing knowledge with the community.<br><br>
-      Connect with me here:<br>
-      <a href="https://wa.me/918605671941"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
-      <a href="mailto:rahuljaiswarofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-      <a href="https://instagram.com/rahuljaiswarofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-      <a href="https://linkedin.com/in/rahuljaiswarofficial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-    </td>
-    <td valign="top" width="40%">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="350px" max-width="400px" width="350px"/>
-    </td>
-  </tr>
-</table>
+<h1>Rahul Jaiswar</h1>
+<b>Full Stack Developer | Tech Enthusiast | Problem Solver</b><br>
+Hi! I'm Rahul, passionate about building scalable web apps and creative solutions. Always learning, always coding. I enjoy collaborating with others and am always open to new opportunities and challenges. I love working on innovative projects and sharing knowledge with the community. In my free time, I explore new tech, contribute to open source, and help others grow in their coding journey.<br><br>
+Connect with me here:<br>
+<a href="https://wa.me/918605671941"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:rahuljaiswarofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/rahuljaiswarofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rahuljaiswarofficial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="350" align="right">
+
+<br><br><br><br>
 
 ## 🛠️ Technical Skills
 
